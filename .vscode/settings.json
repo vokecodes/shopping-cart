@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'SF Mono'",
+    "files.exclude": {
+        "**/.git": false
+    },
+    "editor.formatOnSave": true
+}
